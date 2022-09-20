@@ -1,0 +1,10 @@
+const kSetting = 'Select Campaign Setting';
+const kGroup = 'Create an ad group';
+const kAdd = 'Create an add';
+const kLast = 'Last step';
+const kCampaignMethod = 'campaign';
+const kGroupMethod= 'group';
+const kAddMethod = 'add';
+const kCONTINUE = 'CONTINUE';
+const kBACK = 'BACK';
+const kChannel = 'com.tyrAds.tyrads';
