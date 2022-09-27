@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import '../feature/stepper/stepper_view.dart';
+import '../feature/home/home_view.dart';
 
 class App extends StatefulWidget {
   const App({super.key});
@@ -21,7 +21,7 @@ class _AppState extends State<App> {
     // TODO: implement build
     return const MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: StepperView(),
+      home: HomeView(),
 
       //initialRoute: SplashScreen.route,
     );
